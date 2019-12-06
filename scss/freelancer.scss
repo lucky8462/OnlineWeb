@@ -17,3 +17,8 @@
 @import "layout/portfolio.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+.custom-image{
+    background-image: url("../img/photo/p1.JPG");
+    background-size: cover;
+}
