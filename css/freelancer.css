@@ -9849,7 +9849,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .custom-image {
-  background-image: url("../img/photo/p1.jpg");
-  background-size: contain;
-  
+  background-image: url("../img/photo/p1.jpg")center center/cover no-repeat;
+  background-size:contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
