@@ -9850,5 +9850,6 @@ form .row:first-child .floating-label-form-group {
 
 .custom-image {
   background-image: url("../img/photo/p1.jpg");
-  background-size: cover;
+  background-size: contain;
+  
 }
